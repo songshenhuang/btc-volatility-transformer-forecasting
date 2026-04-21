@@ -1,0 +1,12 @@
+# Recommended starter requirements for this notebook
+# For exact submission versions from your own machine, run:
+# pip freeze > requirements.txt
+
+numpy==2.1.1
+pandas==2.2.3
+matplotlib==3.9.2
+scikit-learn==1.5.2
+torch==2.4.1
+kagglehub==0.3.4
+notebook==7.2.2
+jupyterlab==4.2.5
