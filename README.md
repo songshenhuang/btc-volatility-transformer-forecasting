@@ -127,12 +127,3 @@ This project adapts ideas from:
 - Vaswani et al., *Attention Is All You Need*
 - Kazemi et al., *Time2Vec: Learning a Vector Representation of Time*
 
-## Team note
-
-If your instructor wants exact package versions from the environment used for the final run, generate the final locked file with:
-
-```bash
-pip freeze > requirements.txt
-```
-
-That is the best way to capture the exact versions from your own machine before submission.
